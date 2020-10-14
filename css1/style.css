@@ -1,5 +1,5 @@
 .navbar{
-    background-color: transparent !important;
+    background-color: blue !important;
 }
 
 .navbar .navbar-brand{
@@ -39,4 +39,20 @@
     color: #ffffff !important;
     font-weight: bold;
     font-size: 1.5rem;
+}
+
+.card-deck{
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
+
+.card-deck .card a{
+    border: solid 1px;
+    border-radius: 5px;
+    width: 95px;
+    margin-left: auto;
+}
+
+hr{
+    width: 50%;
 }
