@@ -1,6 +1,6 @@
 /********************* NAVBAR STYLE ********************/
 .navbar{
-    background-color: blue !important;
+    background-color: rgba(2, 112, 30, 0.788) !important;
 }
 
 .navbar .navbar-brand{
@@ -29,18 +29,18 @@
 }
 
 .navbar button:hover{
-    background-color: #007bffbd !important;
+    background-color: rgba(2, 112, 30, 0.788) !important;
 }
 
 /************************* NAVBAR STYLE END ********************/
 
-}
+
 
 /**************************** FOOTER STYLE ****************************/
 .footer{
     text-align: center;
     padding-top: 15px;
-    background-color: blue;
+    background-color:  rgba(2, 112, 30, 0.788);
     height: 130px;
 }
 
