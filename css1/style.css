@@ -1,3 +1,4 @@
+/********************* NAVBAR STYLE ********************/
 .navbar{
     background-color: blue !important;
 }
@@ -31,6 +32,10 @@
     background-color: #007bffbd !important;
 }
 
+/************************* NAVBAR STYLE END ********************/
+
+/************************** CAROUSEL STYLE *********************/
+
 .carousel-caption h1{
     color: darkred !important;
 }
@@ -41,6 +46,9 @@
     font-size: 1.5rem;
 }
 
+/************************ CAROUSEL STYLE END *********************/
+
+/*********************** CARD STYLE *************************/
 .card-deck{
     margin-top: 30px;
     margin-bottom: 40px;
@@ -49,10 +57,71 @@
 .card-deck .card a{
     border: solid 1px;
     border-radius: 5px;
+    background-color: blue;
+    color: white;
     width: 95px;
     margin-left: auto;
 }
 
+.card-deck .card a:hover{
+    background-color: darkred;
+}
+
+/*************************** CARD STYLE END **********************/
+
 hr{
     width: 50%;
+}
+
+/************************** VIDEO AND TEXT STYLE *******************/
+.heading{
+    text-align: center;
+    padding-bottom: 70px;
+    color: darkred !important;
+}
+
+iframe{
+    width: 90%;
+    height: 400px;
+    padding-left: 50px;
+}
+
+h2{
+    color: darkred !important;
+    padding-bottom: 20px;
+}
+
+.paragraph{
+    width: 80%;
+    text-align: left;
+    line-height: 2;
+}
+
+/**************************** ViDEO AND TEXT STYLE END ******************/
+
+.text{
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 100px;
+}
+
+.footer{
+    text-align: center;
+    padding-top: 15px;
+    background-color: blue;
+    height: 130px;
+}
+
+.footer a{
+    color: #111111;
+    text-decoration: none;
+    margin: 15px;
+}
+
+.footer a:hover{
+    color: darkred;
+}
+
+.footerPara{
+    padding-top: 20px;
 }
