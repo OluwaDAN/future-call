@@ -34,6 +34,83 @@
 
 /************************* NAVBAR STYLE END ********************/
 
+/**************************** FACT STYLE *********************/
+
+.fact{
+    color: rgba(2, 112, 30, 0.788) !important;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 70px;
+}
+
+/************************** FACT AND VIDEO SECTION STYLE *******************/
+iframe{
+    width: 90%;
+    height: 400px;
+    padding-left: 50px;
+}
+.paragraph{
+    width: 80%;
+    text-align: left;
+    line-height: 2;
+    font-size: 1rem;
+    /* font-weight: bold; */
+}
+
+h4{
+    color: rgba(2, 112, 30, 0.788);
+}
+
+/**************************** FACT AND VIDEO SECTION STYLE END ******************/
+
+/**************************** FACT AND IMAGE SECTION STYLE *********************/
+
+.paraInfo{
+    width: 80%;
+    text-align: left;
+    line-height: 2;
+    font-size: 1rem;
+    /* font-weight: bold; */
+    padding-top: 50px;
+}
+
+.span{
+    color: rgba(2, 112, 30, 0.788);
+    font-weight: bold;
+}
+
+.svgImg{
+    width: 90%;
+    height: 400px;
+    margin-right: 50px;
+    padding-top: 50px;
+}
+/**************************** FACT AND IMAGE SECTION STYLE END *********************/
+
+/**************************** CAUSES AND IMAGE SECTION STYLE *********************/
+
+.causeImg{
+    width: 70%;
+    height: 400px;
+    margin-top: 30px;
+    margin-right: 50px;
+    padding-top: 50px;
+}
+
+h2{
+    color: rgba(2, 112, 30, 0.788);
+    text-align: center;
+    margin-top: 30px;
+}
+
+li{
+    /* font-weight: bold; */
+    line-height: 2;
+}
+
+
+/**************************** CAUSES AND IMAGE SECTION STYLE END *********************/
+
 
 /**************************** FOOTER STYLE ****************************/
 .footer{

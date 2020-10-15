@@ -48,7 +48,7 @@
 }
 
 .missionpara{
-    font-weight: bold;
+    /* font-weight: bold; */
     font-size: 1rem;
 
 }
@@ -82,7 +82,7 @@
 
 .paraRex{
     width: 70%;
-    font-weight: bold;
+    /* font-weight: bold; */
     font-size: 1rem;
     line-height: 2;
     margin: auto;
@@ -91,7 +91,7 @@
 
 .paraRex2{
     width: 70%;
-    font-weight: bold;
+    /* font-weight: bold; */
     font-size: 1rem;
     line-height: 2;
     margin: auto;
