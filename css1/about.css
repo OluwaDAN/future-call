@@ -22,13 +22,13 @@
     color: darkred !important;
 }
 
-.navbar button{
+.navbar .btn{
     background-color: darkred !important;
     color: #ffffff !important;
     font-weight: bold;
 }
 
-.navbar button:hover{
+.navbar .btn:hover{
     background-color: rgba(2, 112, 30, 0.788) !important;
 }
 

@@ -1,0 +1,58 @@
+/********************* NAVBAR STYLE ********************/
+.navbar{
+    background-color: rgba(2, 112, 30, 0.788) !important;
+}
+
+.navbar .navbar-brand{
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 1.3rem;
+}
+
+.navbar .navbar-brand:hover{
+    color: darkred !important;
+}
+
+.navbar .nav-item a{
+    color: black !important;
+    font-weight: bold;
+}
+
+.navbar .nav-item a:hover{
+    color: darkred !important;
+}
+
+.navbar .btn{
+    background-color: darkred !important;
+    color: #ffffff !important;
+    font-weight: bold;
+}
+
+.navbar .btn:hover{
+    background-color: rgba(2, 112, 30, 0.788) !important;
+}
+
+/************************* NAVBAR STYLE END ********************/
+
+
+/**************************** FOOTER STYLE ****************************/
+.footer{
+    text-align: center;
+    padding-top: 15px;
+    background-color:  rgba(2, 112, 30, 0.788);
+    height: 130px;
+}
+
+.footer a{
+    color: #111111;
+    text-decoration: none;
+    margin: 15px;
+}
+
+.footer a:hover{
+    color: darkred;
+}
+
+.footerPara{
+    padding-top: 20px;
+}
