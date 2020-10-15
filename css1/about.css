@@ -34,6 +34,71 @@
 
 /************************* NAVBAR STYLE END ********************/
 
+/**************************** ABOUT STYLE *********************/
+.About{
+    color: rgba(2, 112, 30, 0.788);
+    text-align: center;
+    padding-top: 50px;
+}
+
+.missionImg{
+    width: 30%;
+    float: left;
+    margin-right: 30px;
+}
+
+.missionpara{
+    font-weight: bold;
+    font-size: 1rem;
+
+}
+
+.missiontext{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+/**************************** ABOUT STYLE END ***********************/
+
+/*************************** VISION AND MISSION STYLE ****************/
+
+.visionH1{
+    color: rgba(2, 112, 30, 0.788);
+    width: 50%;
+    margin: auto;
+    margin-top: 20px;
+    
+}
+
+.visionH2{
+    color: rgba(2, 112, 30, 0.788);
+    width: 50%;
+    margin: auto;
+    margin-top: 20px;
+    
+}
+
+.paraRex{
+    width: 70%;
+    font-weight: bold;
+    font-size: 1rem;
+    line-height: 2;
+    margin: auto;
+    padding-top: 20px;
+}
+
+.paraRex2{
+    width: 70%;
+    font-weight: bold;
+    font-size: 1rem;
+    line-height: 2;
+    margin: auto;
+    padding-top: 20px;
+}
+
+/*************************** VISION AND MISSION STYLE END ****************/
 
 
 /**************************** FOOTER STYLE ****************************/
