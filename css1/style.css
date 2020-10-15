@@ -1,4 +1,7 @@
 /********************* NAVBAR STYLE ********************/
+.mydiv{
+    top: 0;
+}
 .navbar{
     background-color:  rgba(2, 112, 30, 0.788) !important;
 }
@@ -7,6 +10,7 @@
     color: #ffffff;
     font-weight: bold;
     font-size: 1.3rem;
+    background-color: rgba(2, 112, 30, 0.788);
 }
 
 .navbar .navbar-brand:hover{
@@ -30,6 +34,10 @@
 
 .navbar .btn:hover{
     background-color: rgba(2, 112, 30, 0.788) !important;
+}
+
+.carousel{
+    margin-top: 73px;
 }
 
 /************************* NAVBAR STYLE END ********************/

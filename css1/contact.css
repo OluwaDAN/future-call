@@ -1,4 +1,7 @@
 /********************* NAVBAR STYLE ********************/
+.mydiv{
+    top: 0;
+}
 .navbar{
     background-color: rgba(2, 112, 30, 0.788) !important;
 }
@@ -32,7 +35,61 @@
     background-color: rgba(2, 112, 30, 0.788) !important;
 }
 
+.carousel{
+    margin-top: 73px;
+}
+
 /************************* NAVBAR STYLE END ********************/
+
+/**************************** CONTACT STYLE *********************/
+.contact{
+    color: rgba(2, 112, 30, 0.788) !important;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 70px;
+}
+/**************************** CONTACT STYLE END *********************/
+
+/**************************** ADDRESS AND FORM STYLE ***********************/
+
+.addresstext1{
+    color: rgba(2, 112, 30, 0.788);
+}
+p{
+    color: #111111;
+}
+form{
+    width: 70%;
+    height: 300px;
+}
+
+input{
+    outline: none;
+    width: 80%;
+    height: 40px;
+    color: rgba(2, 112, 30, 0.788);
+    border: none;
+    border-bottom: solid 3px;
+}
+
+textarea{
+    color: rgba(2, 112, 30, 0.788);
+    width: 80%;
+    height: 100px;
+    outline: none;
+    border: none;
+    border-bottom: solid 3px;
+}
+
+.btn{
+    background-color: darkred;
+    color: #ffffff;
+}
+
+.btn:hover{
+    background-color: rgba(2, 112, 30, 0.788)
+}
+/**************************** ADDRESS AND FORM STYLE END *********************/
 
 
 /**************************** FOOTER STYLE ****************************/
@@ -40,7 +97,13 @@
     text-align: center;
     padding-top: 15px;
     background-color:  rgba(2, 112, 30, 0.788);
-    height: 130px;
+    height: 150px;
+}
+
+hr{
+    width: 50%;
+    background-color: #ffffff;
+    border-style: none;
 }
 
 .footer a{
