@@ -2,8 +2,9 @@
 .mydiv{
     top: 0;
 }
+
 .navbar{
-    background-color: rgba(2, 112, 30, 0.788) !important;
+    background-color: rgb(2, 112, 30) !important;
 }
 
 .navbar .navbar-brand{
@@ -34,8 +35,7 @@
 .navbar .btn:hover{
     background-color: rgba(2, 112, 30, 0.788) !important;
 }
-
-.carousel{
+.Factpic{
     margin-top: 73px;
 }
 
