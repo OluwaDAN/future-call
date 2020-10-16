@@ -1,0 +1,92 @@
+.formtext{
+    width: 485px;
+    height: 690px;
+    border: solid 1px;
+    margin: auto;
+    margin-top: 40px;
+    background-color: #ffffff;
+    border-radius: 5px;
+    border-color: rgba(2, 112, 30, 0.788);
+}
+
+.logo{
+    width: 100px;
+    padding-top: 15px;
+    margin-left: 200px;
+}
+
+hr{
+    width: 25%;
+    margin-top: 20px;
+    border-style: none;
+    border-top-style: dashed;
+    border-width: 2px;
+    border-color: darkred
+}
+h3{
+    padding-top: 50px;
+    padding-left: 5px;
+    text-align: center;
+    color: rgba(2, 112, 30, 0.788);
+}
+
+h4{
+    padding-top: 10px;
+    text-align: center;
+    padding-left: 5px;
+    padding-bottom: 40px;
+    color: rgba(2, 112, 30, 0.788);
+}
+
+input{
+    width: 480px;
+    height: 40px;
+    margin-top: 15px;
+    border: none;
+    border-bottom: solid 3px;
+    padding-left: 10px;
+    outline: none;
+    font-weight: bold;
+    color: rgba(2, 112, 30, 0.788);
+}
+
+.box{
+    display: flex;
+}
+
+.checkbox{
+    width: 20px;
+    margin-left: 5px;
+}
+
+.para{
+    margin-top: 23px;
+    margin-left: 5px;
+    font-weight: bold;
+}
+
+.policy{
+    padding-left: 220px;
+    font-weight: bold;
+}
+
+.policy a{
+    text-decoration: none;
+    color: darkred;
+    font-weight: bold;
+}
+
+.btn{
+    width: 100px;
+    height: 40px;
+    outline: none;
+    background-color: rgba(2, 112, 30, 0.788);
+    border-color: darkred;
+    color: #ffffff;
+    margin-left: 350px;
+}
+
+.btn:hover{
+    background-color: darkred;
+    color: #ffffff;
+}

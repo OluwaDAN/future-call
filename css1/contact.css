@@ -102,9 +102,11 @@ textarea{
 }
 
 hr{
-    width: 50%;
-    background-color: #ffffff;
+    width: 25%;
     border-style: none;
+    border-top-style: dashed;
+    border-width: 2px;
+    border-color: black;
 }
 
 .footer a{

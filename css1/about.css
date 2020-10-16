@@ -113,7 +113,15 @@
     text-align: center;
     padding-top: 15px;
     background-color:  rgba(2, 112, 30, 0.788);
-    height: 130px;
+    height: 150px;
+}
+
+hr{
+    width: 25%;
+    border-style: none;
+    border-top-style: dashed;
+    border-width: 2px;
+    border-color: black;
 }
 
 .footer a{
